@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_maria_virtualbox__36443: http://maria-VirtualBox:36443/
+rosversion: '1.16.0
+
+  '
+run_id: eb60c606-079e-11ef-8e08-6712e6f744e4
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
