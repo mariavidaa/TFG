@@ -165,6 +165,9 @@ include_directories(
    #scripts/my_python_script
    #DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
    src/trajectory_publisher_node.py
+   src/trajectory_publisher_flexion_node.py
+   src/trajectory_publisher_extension_node.py
+   src/trajectory_publisher_prosup_node.py
    scripts/ejercicios_flexion.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
