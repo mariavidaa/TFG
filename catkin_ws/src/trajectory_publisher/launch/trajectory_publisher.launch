@@ -1,7 +1,7 @@
 <launch>
     <node pkg="trajectory_publisher" type="trajectory_publisher_extension_node.py" name="trajectory_publisher_extension_node" output="screen">
-        <param name="longitud_brazo" type="int" value="10" />
-        <param name="longitud_antebrazo" type="int" value="8" />
+        <param name="longitud_brazo" type="double" value="34.6" />
+        <param name="longitud_antebrazo" type="double" value="29.8" />
         
         <param name="grados_muneca" type="int" value="50" />
     </node>
